@@ -1,0 +1,344 @@
+* {
+padding: 0;
+margin: 0;
+}
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+.menu ul{
+    background-image: url(../img/Rectangle.png);
+    height: 110vh;
+    background-size: cover;
+
+
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    padding-top: 20px;
+    padding-left: 29rem;
+}
+.flex a{
+    text-decoration: none;
+    color: #FFFFFF;
+   
+}
+.flex li{
+    list-style: none;
+}
+.line {
+text-align: center;
+padding-top: 39px;
+}
+.flex1{
+  padding-top:  18rem;
+  
+   text-align: center;
+}
+.mm {
+    padding-left: 43rem;
+width: 500px;
+font-size: 18px;
+color: #FFFFFF;
+}
+.flex1 p{
+    color: #FFFFFF;
+}
+.flex1 button{
+   background-color: #4985FF;
+   color: #FFFFFF;
+   width: 150px;
+   height: 45px;
+   border-radius: 2rem;
+   
+}
+.but{
+padding-top: 5rem;
+
+}
+
+/* 2222222222222 */
+
+.menu2{
+    
+
+}
+.flex0 {
+  
+  text-align: center;
+   width: 600px;
+   padding-left:40rem;
+   margin-top: 7rem;
+}
+.div1 {
+    width: 500px;
+    font-size: 20px;
+    padding-left: 45px;
+    color: black;
+}
+.div2{
+    padding-top: 3rem;
+}
+.flex2{
+   display: flex;
+   justify-content: space-between;
+   text-align: center;
+   padding-top: 4REM;
+   width: 1000px;
+   gap: 60px;
+}
+.but2{
+    text-align: center;
+   
+   
+    padding-top: 50px;
+}
+.but2 button{
+    background-color: #4985FF ;
+    color: #FFFFFF;
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+}
+/* 333333333333333333 */
+.menu3{
+    
+   
+    display: flex;
+    text-align: center;
+    padding-left: 24rem;
+    padding-top: 5rem;
+}
+.fons{
+    background-color: #F6F6F8;
+}
+.flex3 p{
+    width: 460px;
+    font-size:20px;
+    color: #999999;
+    padding-top: 40px;
+}
+.flex3 h1{
+    width: 300px;
+    font-size: 30px;
+}
+.fon img{
+    padding-left: 9rem;
+}
+.but3 {
+    padding-top: 30px;
+  
+}
+.but3 a{
+    color: #4985FF;
+}
+.fo{
+    display: flex;
+    gap: 8px;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    gap: 7rem;
+    padding-top: 4rem;
+}
+.line1{
+    margin: 0  auto;
+    width: 1100px;
+    padding-top: 4rem;
+}
+/* ohjdfhfhdnv */
+.meenu{
+    background-color: #504DC2;
+    padding-top: 8rem;
+}
+.flex5 button{
+    background-color: #4985FF;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.flex5{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.flex5 h1{
+    width: 310px;
+    color: #FFFFFF;
+}
+.menu5{
+    display: flex;
+    justify-content:center;
+    width: 500px ;
+    margin: 0 auto;
+   padding-top: 2rem;
+   gap: 3rem;
+
+}
+.imgs h2 {
+padding-top:  20px;
+}
+.imgs p{
+    padding-top: 20px;
+}
+.imgs .link{
+    margin-top: 20px;
+}
+.link a{
+    padding-top: 3rem;
+}
+.line12{
+    margin: 0 auto;
+    width: 1100px;
+}
+
+/* 66666666666666 */
+
+.menu7{
+   background-color: #c5c1c1;
+}
+.glav{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 4rem;
+}
+.glav1{
+    display: flex;
+    justify-content:center ;
+    width: 600px;
+    padding-left: 40rem;
+    padding-top: 3rem;
+    
+}
+.rectangle {
+    display: flex;
+    text-align: center;
+    gap: 4rem;
+    padding-top: 5rem;
+  
+   
+}
+.conteiner2{
+    width: 1100px;
+    margin: 0 auto ;
+}
+.but5{
+    
+    text-align: center;
+    width: 150px;
+    height:100px;
+    padding-left: 30rem;
+    padding-top: 3rem;
+  
+}
+.but5 button{
+    background-color: #4985FF;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+/* 7777777777777777777777777 */
+.menu8{
+    background-image: url(../img/Rectangle.png);
+    height: 100vh;
+    background-size: cover;
+    color: #FFFFFF;
+}
+.flex7{
+text-align: center;
+padding-top: 3rem;
+font-size: 60px;
+}
+.lex8{
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 30px;
+}
+.www{
+    padding-top: 8rem;
+}
+.div4 {
+    text-align: center;
+}
+.img1 img{
+    text-align: center;
+    padding-top: 10rem;
+   padding-left: 3rem;
+   width: 150vh;
+}
+.img2 button{
+    width: 1100px;
+    margin: 0 auto;
+    height: 6rem;
+    width:15rem;
+    bottom: 14rem;
+    border-radius: 50px;
+    background-color: #ffffff00;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    
+}
+.img2  button{
+   position: relative;
+   bottom: 25rem;   
+}
+.im{
+   
+    position: relative;
+    bottom: 23.5rem;
+    left: 66px;
+}
+.ass{
+    margin: 0 auto;
+    width: 1100px;
+}
+.sas{
+    text-align: center;
+    padding-top: 10rem;
+}
+.aa h1{
+    padding-top: 10px;
+    color: black;
+}
+.aaa p{
+    padding-top: 50px;
+    color: black;
+}
+.tom{
+    text-align: center;
+    display: flex;
+   justify-content: center;
+}
+.tom a{
+    width: 100px;
+    height: 60px;
+    color:#FFFFFF;
+    background-color: #4985FF;
+    
+}
+.tom button {
+    width: 489px;
+    height: 40px;
+    
+
+}
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+   
